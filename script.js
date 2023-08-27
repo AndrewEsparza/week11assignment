@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
         return cell;
     }
 
-    // Function to initialize the game board with empty cells
-    function initializeBoard() {
+    //Function to initialize the game board with empty cells
+function initializeBoard() {
         boardDiv.innerHTML = '';
-        for (let i = 0; i < 9; i++) {
+    for (let i = 0; i < 9; i++) {
             const cell = createCell(i);
             boardDiv.appendChild(cell);
         }

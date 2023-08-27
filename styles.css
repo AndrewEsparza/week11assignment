@@ -1,9 +1,9 @@
 body {
-    background-color: #f4f4f4; /* Background color */
+    background-color: #f4f4f4; 
 }
 
 .game-container {
-    background-color: #fff; /* Game container background color */
+    background-color: #fff;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
@@ -23,11 +23,11 @@ body {
     font-size: 2rem;
     cursor: pointer;
     border: 1px solid #ccc;
-    background-color: #eee; /* Cell background color */
+    background-color: #eee; 
 }
 
 .cell:hover {
-    background-color: #ddd; /* Hover effect */
+    background-color: #ddd; 
 }
 
 .container-fluid {
@@ -42,10 +42,10 @@ body {
 }
 
 .btn-primary {
-    background-color: #007bff; /* Button background color */
+    background-color: #007bff; 
     border-color: #007bff;
 }
 
 .btn-primary:hover {
-    background-color: #0056b3; /* Button hover color */
+    background-color: #0056b3; 
 }
